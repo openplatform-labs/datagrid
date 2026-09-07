@@ -1,0 +1,17 @@
+{
+  "datasetName": "Orders",
+  "description": "GitHub raw JSON으로 관리하는 AG Grid Angular 샘플",
+  "source": "github",
+  "framework": "Angular v22",
+  "gridLibrary": "AG Grid Community",
+  "theme": "ag-theme-quartz-dark",
+  "defaultSort": [
+    {
+      "colId": "riskScore",
+      "sort": "desc"
+    }
+  ],
+  "highlightedStatuses": ["Blocked", "Review", "Changed"],
+  "primaryAction": "Open order",
+  "secondaryAction": "Escalate"
+}
