@@ -1,0 +1,62 @@
+[
+  {
+    "orderCode": "ORD-2041",
+    "status": "Review",
+    "owner": "Mina Park",
+    "region": "Seoul",
+    "plan": "Secure Ops",
+    "amount": 12400,
+    "riskScore": 82,
+    "updatedAt": "2m ago"
+  },
+  {
+    "orderCode": "ORD-2058",
+    "status": "Approved",
+    "owner": "Jin Woo",
+    "region": "Busan",
+    "plan": "Core",
+    "amount": 1230,
+    "riskScore": 18,
+    "updatedAt": "14m ago"
+  },
+  {
+    "orderCode": "ORD-2072",
+    "status": "Blocked",
+    "owner": "Ops Queue",
+    "region": "Tokyo",
+    "plan": "Global Billing",
+    "amount": 64200,
+    "riskScore": 96,
+    "updatedAt": "1h ago"
+  },
+  {
+    "orderCode": "ORD-2087",
+    "status": "Queued",
+    "owner": "Auto Review",
+    "region": "Singapore",
+    "plan": "Edge Scale",
+    "amount": 3410,
+    "riskScore": 41,
+    "updatedAt": "3h ago"
+  },
+  {
+    "orderCode": "ORD-2099",
+    "status": "Changed",
+    "owner": "Ravi Kumar",
+    "region": "Frankfurt",
+    "plan": "Audit Pro",
+    "amount": 7880,
+    "riskScore": 67,
+    "updatedAt": "6h ago"
+  },
+  {
+    "orderCode": "ORD-2115",
+    "status": "Approved",
+    "owner": "Sara Lee",
+    "region": "London",
+    "plan": "Core Plus",
+    "amount": 2840,
+    "riskScore": 12,
+    "updatedAt": "8h ago"
+  }
+]
