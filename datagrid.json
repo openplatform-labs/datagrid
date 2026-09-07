@@ -1,0 +1,24 @@
+[
+  {
+    "name": "AG Grid Orders Demo",
+    "shortname": "ag-grid-orders-demo",
+    "url": "https://datagrid.opl.io.kr/",
+    "collection": "themed",
+    "source": "github-sample",
+    "previewFilename": "orders.view.json",
+    "files": [
+      {
+        "filename": "orders.rows.json",
+        "variant": "default"
+      },
+      {
+        "filename": "orders.columns.json",
+        "variant": "default"
+      },
+      {
+        "filename": "orders.view.json",
+        "variant": "default"
+      }
+    ]
+  }
+]
