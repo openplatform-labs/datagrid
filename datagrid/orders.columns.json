@@ -1,0 +1,45 @@
+[
+  {
+    "field": "orderCode",
+    "headerName": "Order",
+    "pinned": "left",
+    "width": 140
+  },
+  {
+    "field": "status",
+    "headerName": "Status",
+    "width": 120
+  },
+  {
+    "field": "owner",
+    "headerName": "Owner",
+    "width": 160
+  },
+  {
+    "field": "region",
+    "headerName": "Region",
+    "width": 140
+  },
+  {
+    "field": "plan",
+    "headerName": "Plan",
+    "width": 160
+  },
+  {
+    "field": "amount",
+    "headerName": "Amount",
+    "type": "numericColumn",
+    "width": 140
+  },
+  {
+    "field": "riskScore",
+    "headerName": "Risk",
+    "type": "numericColumn",
+    "width": 120
+  },
+  {
+    "field": "updatedAt",
+    "headerName": "Updated",
+    "width": 120
+  }
+]
